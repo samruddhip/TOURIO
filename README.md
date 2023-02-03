@@ -1,4 +1,5 @@
 # TOURIO
 Travel Agency website
 
-main: Web Development
+Technology: Web Development
+
